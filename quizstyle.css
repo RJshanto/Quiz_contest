@@ -63,3 +63,22 @@ button.btn {
     border-radius: 20px;
 }
 
+@media(max-width:576px){
+    .header{
+        height: 60px;
+    }
+
+    .quizbox{
+        margin-top: 5px;
+    }
+    #box{
+        width: 95%;
+    }
+    .optionfiled{
+        margin-top: 20px;
+    }
+    .row{
+       
+        margin-top: 5px;
+    }
+}
